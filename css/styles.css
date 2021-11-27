@@ -1,0 +1,103 @@
+
+body {
+  margin: 0;
+  text-align: center;
+
+
+}
+
+p{
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: 'Outfit', sans-serif;
+  font-size: 1.2rem;
+}
+
+h1{
+  margin: 0;
+  font-family: 'Cedarville Cursive', cursive;
+  font-size: 5rem;
+  color: black;
+
+}
+
+h2 {
+  font-family: 'Comforter Brush', cursive;
+  font-size: 3em;
+
+}
+
+h3 {
+  font-family: 'M PLUS 1', sans-serif;
+  font-weight: 900;
+}
+
+div{
+
+}
+
+.top {
+background: linear-gradient(175deg, rgba(57,32,51,1) 14%, rgba(235,92,79,1) 69%, rgba(239,134,100,1) 91%);
+margin-top: 0;
+position: relative;
+padding-top: 100px;
+
+}
+
+
+.middle{
+  height: 200px;
+  width: 200px;
+  background-color: red;
+}
+
+.bottom{
+  height: 200px;
+  width: 200px;
+  background-color: yellow;
+}
+
+.dev{
+  font-style: italic;
+
+}
+
+.topcloud {
+  position: absolute;
+  margin-left: 200px;
+
+}
+
+.bottomcloud{
+  position: absolute;
+
+}
+
+.mountain {
+  margin-top: 30px;
+
+}
+
+.contact-me {
+  margin-bottom: 50px;
+}
+
+.profile {
+  margin-top: 25px;
+}
+
+.skilled-guy {
+  margin: 10px;
+
+}
+
+.deadlifting-guy {
+  margin: 10px;
+
+}
+
+.btn {
+  font-family: 'Cedarville Cursive', cursive;
+  font-size: 1rem;
+  color: black;
+}
